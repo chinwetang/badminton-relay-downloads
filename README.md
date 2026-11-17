@@ -1,12 +1,19 @@
-# 羽球接力记分 · Android 下载
+# 羽球接力记分 Android 下载
 
-适用于 Android 8.0 及以上手机和平板，横屏使用、离线保存。
+下载页：https://chinwetang.github.io/badminton-relay-downloads/
 
-- [下载页面](https://chinwetang.github.io/badminton-relay-downloads/)
-- [v1.0.1 安装包](https://github.com/chinwetang/badminton-relay-downloads/releases/download/v1.0.1/badminton-relay-1.0.1.apk)
+Android 手机与平板横屏记分应用，最低 Android 8.0。
 
-从微信收到网址后，建议复制到手机自带浏览器打开。下载完成后，在浏览器下载记录中点击 APK 安装。已有旧版可直接覆盖安装，保留比赛记录。
+v1.0.2：
+- 安装包按设备类型拆分，64位包约15.9 MB，较上一版45.1 MB缩小约65%。
+- 两侧加分卡片加宽约三分之一，整块卡片均可点击。
+- 甲组：男单→女双→混双→男双；乙组：男单→男双→混双→女双；均重复两遍。
+- 已锁定的旧比赛保留原赛序并标注“旧赛序”；未锁定乙组草稿按项目调整顺序。
 
-本版支持手机紧凑布局、预定阵容接力、发球与换场提示、拖动换位，以及换人比分长图和 CSV 导出。
+普通手机和小米平板优先下载 `badminton-relay-1.0.2-arm64.apk`。较旧32位设备下载 `badminton-relay-1.0.2-arm32.apk`，约13.4 MB。
 
-文件大小：47,318,546字节。SHA-256：`813993ac6a83b7b5e56d3c80e5784a28e997bc906f4312e8c7849fa2cf83e1d6`。
+已有旧版可直接覆盖升级；保留比赛记录，不要先卸载。微信收到链接后复制到手机浏览器下载。
+
+64位 SHA-256：`81ae8a6a76c9d76d3dc7ca34007eea24867cf77d4be8fdea9ac3ee857b765da4`
+
+32位 SHA-256：`d614dade22191017a1bd9d68b3cf9eafa3dd01f64cdc2295b57254c41614bee4`
